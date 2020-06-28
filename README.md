@@ -1,3 +1,7 @@
+## Ravenous 
+This is a yelp clone project that I built while learning React from codecademy.
+
+## Extra
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
